@@ -1,0 +1,145 @@
+.body-1 {
+
+  opacity: 1.0;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+
+}
+.st-2 {
+	
+	font-family: cursive;
+	float: right;
+}
+.st-2:hover {
+	color: white;
+}
+.logo-1 {
+	margin-top: 0px;
+	float: right;
+	width: 50px;
+	height: 50px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.st-1
+	{
+		animation-name: animate;
+		animation-duration: 1s;
+		animation-iteration-count: infinite;
+		text-align: center;
+		letter-spacing: 10px;
+		font-size: 22px;
+		font-family: Palatino Linotype;
+		  cursor: pointer;
+	}
+
+	@keyframes animate
+	{
+		0% {color: red}
+		25% {color: green}
+		50% {color: blue}
+		75% {color: orange}
+		100% {color: yellow}
+	}
+.st-1:hover{
+	font-size: 28px;
+}
+.img-1{
+	border-radius: 5%;
+  width: 225px;
+   height: 224px;
+   box-shadow: 5px 5px 10px black;
+     cursor: pointer;
+  
+
+}
+.img-1:hover{
+	border-radius: 40%;
+
+}
+.img-2 {
+	border-radius: 5%;
+ width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+ 
+}
+.img-2:hover{
+	border-radius: 40%;
+}
+.img-3 {
+border-radius: 5%;
+ width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+ 
+}
+.img-3:hover{
+	border-radius: 40%;
+}
+.img-4 {
+	border-radius: 5%;
+	width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+
+}
+
+.img-4:hover{
+	border-radius: 40%;
+
+}
+.img-5 {
+	border-radius: 5%;
+	width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+
+}
+.img-5:hover{
+	border-radius: 40%;
+
+}
+.img-6 {
+	border-radius: 5%;
+	width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+
+}
+.img-6:hover{
+	border-radius: 40%;
+
+}
+.img-7{
+	border-radius: 5%;
+	width: 225px;
+  height: 224px;
+  box-shadow: 5px 5px 10px black;
+    cursor: pointer;
+
+}
+.img-7:hover{
+	border-radius: 40%;
+
+}
+
+.container-1 {
+
+	width: 1400px;
+	height: 550px;
+	padding-left: 120px;
+	/*padding-right: 100px;*/
+	padding-top: 70px;
+
+}
+.container-11 {
+	margin-bottom: 20px;
+}
+
+
